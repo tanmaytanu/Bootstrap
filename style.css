@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: tomato;
+    font-size: 40px;
+    font-weight: 600;
+    background-color: seagreen;
+}
+p{
+    text-align: center;
+    color: navy;
+    font-size: 50px;
+    font-weight: 700;
+    background-color: aqua;
+}
